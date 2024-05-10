@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 10-05-2024
+## Register Number: 212223240010
+## Name: ANU VARSHINI M B
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
